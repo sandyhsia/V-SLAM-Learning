@@ -1,0 +1,5 @@
+/media/dongqxia/新加卷/SLAM/HW/HW4/code/build/CMakeFiles/edit_cache.dir
+/media/dongqxia/新加卷/SLAM/HW/HW4/code/build/CMakeFiles/undistorted.dir
+/media/dongqxia/新加卷/SLAM/HW/HW4/code/build/CMakeFiles/rebuild_cache.dir
+/media/dongqxia/新加卷/SLAM/HW/HW4/code/build/CMakeFiles/disparity.dir
+/media/dongqxia/新加卷/SLAM/HW/HW4/code/build/CMakeFiles/GN.dir
