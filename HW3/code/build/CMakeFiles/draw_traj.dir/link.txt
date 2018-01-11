@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/draw_traj.dir/draw_trajectory.cpp.o  -o draw_traj -rdynamic /media/dongqxia/新加卷1/slambook/Sophus/build/libSophus.so /usr/local/lib/libpangolin.so -lrt -lpthread -lGLU -lGL -lGLEW -lSM -lICE -lX11 -lXext -lpython2.7 -ldc1394 -lpng -lz -ljpeg -ltiff -Wl,-rpath,/media/dongqxia/新加卷1/slambook/Sophus/build:/usr/local/lib 
